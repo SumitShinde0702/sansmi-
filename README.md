@@ -4,6 +4,10 @@ THIS IS A TUTORIAL FROM:
 https://youtu.be/XkOXNlHJP6M?si=VyU3f-phB3-jrGHB
 OWNED by Web Prodigies and this was just my version of THEIR video. 
 
+You can use SANSMI to automate your business processes. 
+![image](https://github.com/user-attachments/assets/c4b88153-f4bd-4343-ac32-c72d8dc5cfa1)
+
+
 ## Getting Started
 
 First, run the development server:
